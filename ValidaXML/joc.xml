@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE joc SYSTEM "joc.dtd">
+
 <joc>
     <titol>Final Fantasy VII</titol>
     <companyia>Square Enix</companyia>

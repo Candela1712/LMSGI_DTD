@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro SYSTEM "llibre1.dtd">
+
 <llibre>
     <titol>El Camino de los Reyes</titol>
     <autor>Brandon Sanderson</autor>
